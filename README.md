@@ -8,7 +8,7 @@ This project aims to answer:
 
 >  *How do sequential, strided, and random memory access patterns impact cache hit rate, DRAM row buffer usage, and average memory access latency?*
 
-Understanding these effects is essential for optimizing system architectures — especially for companies like **ARM** (CPU design) and **Micron** (DRAM/flash memory).
+Understanding these effects is essential for optimizing system architectures .
 
 ---
 
